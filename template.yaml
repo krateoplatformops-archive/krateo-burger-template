@@ -42,21 +42,21 @@ spec:
         - chicken wings
         - cheese
   - title: Main Course
-      properties:
-        burger:
-          title: burger
-          description: make a choice
-          required: true
-          type: radio
-          values:
-          - title: classic
-            value: classic
-          - title: egg burger
-            description: with eggs
-            value: egg
-          - title: chicken burger
-            value: chicken
-          - title: beast burger
-            description: 400g of meat
-            value: beast
+    properties:
+      burger:
+        title: burger
+        description: make a choice
+        required: true
+        type: radio
+        values:
+        - title: classic
+          value: classic
+        - title: egg burger
+          description: with eggs
+          value: egg
+        - title: chicken burger
+          value: chicken
+        - title: beast burger
+          description: 400g of meat
+          value: beast
   - title: Dessert
