@@ -24,10 +24,12 @@ spec:
         age:
           title: customer age
           description: your age
+          type: number
         creditCard:
           title: customer credit card
           description: your credit card
           required: true
+          type: password
     - title: Starter
     - title: Main Course
     - title: Drinks
