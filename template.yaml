@@ -88,12 +88,12 @@ spec:
       boxStyle: warning
       properties:
         non-alcoholic:
-        title: non-alcoholic drinks
-        type: radio
-        values:
-          - coke
-          - fanta
-          - sprite
+          title: non-alcoholic drinks
+          type: radio
+          values:
+            - coke
+            - fanta
+            - sprite
         alcoholic:
           title: alcoholic drinks
           values:
