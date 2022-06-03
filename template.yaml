@@ -101,3 +101,17 @@ spec:
             - wine
             - vodka
     - title: Dessert
+      box: sweet end
+      boxStyle: info
+      properties:
+        cake:
+          title: cake
+          values:
+            - ""
+            - title: cheesecake
+              value: cheesecake
+            - oreo cake
+            - strudel
+        notes:
+          title: notes
+          type: textarea
