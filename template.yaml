@@ -16,5 +16,6 @@ spec:
   widgets:
     - title: Customer
     - title: Starter
-    - title: Main Course
+    - title: Burger
+    - title: Drinks
     - title: Dessert
