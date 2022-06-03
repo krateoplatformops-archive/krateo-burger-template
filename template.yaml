@@ -54,14 +54,18 @@ spec:
           values:
             - title: classic burger
               value: classic
+              cost: 8
             - title: egg burger
               description: with 2 eggs
               value: egg
+              cost: 9
             - title: chicken burger
               value: chicken
+              cost: 8
             - title: beast burger
               description: 400g of meat\nsecond line
               value: beast
+              cost: 15
         extraCheese:
           title: extra cheese
           description: extra cheese
