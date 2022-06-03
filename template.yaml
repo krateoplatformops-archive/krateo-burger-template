@@ -29,5 +29,16 @@ spec:
         type: password
       
   - title: Starter
+    box: beautiful start
+    properties:
+      snack:
+        title: snack
+        description: snack
+        required: false
+        type: radio
+        values:
+        - nuggets
+        - chicken wings
+        - cheese
   - title: Main Course
   - title: Dessert
