@@ -93,7 +93,7 @@ spec:
         values:
           - coke
           - fanta
-            - sprite
+          - sprite
         alcoholic:
           title: alcoholic drinks
           values:
