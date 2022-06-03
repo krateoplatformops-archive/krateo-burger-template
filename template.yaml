@@ -60,7 +60,28 @@ spec:
             - title: chicken burger
               value: chicken
             - title: beast burger
-              description: 400g of meat
+              description: 400g of meat\nsecond line
               value: beast
+        extraCheese:
+          title: extra cheese
+          description: extra cheese
+          required: false
+          type: toggle
+        chips:
+          title: chips
+          type: radio
+          default: standard
+          values:
+            - standard
+            - with bacon
+            - with cheese
+            - with cheese and bacon
+        sauce:
+          title: sauce
+          values:
+            - ""
+            - ketchup
+            - mayo
+            - barbecue
     - title: Drinks
     - title: Dessert
