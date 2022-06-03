@@ -15,6 +15,19 @@ metadata:
 spec:
   widgets:
   - title: Customer
+    properties:
+      name:
+        title: customer name
+        required: true
+      age:
+        title: age
+        type: number
+        description: your age
+      creditCard:
+        title: credit card
+        required: true
+        type: password
+      
   - title: Starter
   - title: Main Course
   - title: Dessert
