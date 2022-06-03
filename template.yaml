@@ -84,4 +84,20 @@ spec:
             - mayo
             - barbecue
     - title: Drinks
+      box: drinks
+      boxStyle: warning
+      properties:
+        non-alcoholic:
+        title: non-alcoholic drinks
+        type: radio
+        values:
+          - coke
+          - fanta
+          - sprite
+      alcoholic:
+        title: alcoholic drinks
+        values:
+          - beer
+          - wine
+          - vodka
     - title: Dessert
