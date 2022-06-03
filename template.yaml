@@ -1,0 +1,20 @@
+apiVersion: krateo.io/v1alpha1
+kind: Template
+metadata:
+  name: Krateo sample burger template
+  annotations:
+    title: Krateo sample burger template
+    description: delicious!
+    owner: mauro.sala@kiratech.it
+    icon: fa-solid fa-burger
+  labels:
+    tags:
+    - burger
+    - chips
+    - krateo
+spec:
+  widgets:
+  - title: Customer
+  - title: Starter
+  - title: Main Course
+  - title: Dessert
