@@ -114,6 +114,7 @@ spec:
             - ""
             - title: cheesecake
               value: cheesecake
+              cost: 5
             - oreo cake
             - strudel
         notes:
