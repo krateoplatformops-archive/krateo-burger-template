@@ -1,9 +1,9 @@
 apiVersion: krateo.io/v1alpha1
 kind: Template
 metadata:
-  name: Krateo sample burger template
+  name: Krateo burger template
   annotations:
-    title: Krateo sample burger template
+    title: Krateo burger template
     description: delicious!
     owner: mauro.sala@kiratech.it
     icon: fa-solid fa-burger
