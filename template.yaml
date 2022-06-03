@@ -15,6 +15,19 @@ metadata:
 spec:
   widgets:
     - title: Customer
+      description: burger Customer
+      properties:
+        name:
+          title: customer name
+          description: your name
+          required: true
+        age:
+          title: customer age
+          description: your age
+        creditCard:
+          title: customer credit card
+          description: your credit card
+          required: true
     - title: Starter
     - title: Main Course
     - title: Drinks
