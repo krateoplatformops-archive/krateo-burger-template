@@ -93,11 +93,11 @@ spec:
         values:
           - coke
           - fanta
-          - sprite
-      alcoholic:
-        title: alcoholic drinks
-        values:
-          - beer
-          - wine
-          - vodka
+            - sprite
+        alcoholic:
+          title: alcoholic drinks
+          values:
+            - beer
+            - wine
+            - vodka
     - title: Dessert
