@@ -45,5 +45,22 @@ spec:
             - title: cheese snack
               value: cheese snack
     - title: Main Course
+      properties:
+        burger:
+          title: burger
+          description: your burger
+          required: true
+          type: radio
+          values:
+            - title: classic burger
+              value: classic
+            - title: egg burger
+              description: with 2 eggs
+              value: egg
+            - title: chicken burger
+              value: chicken
+            - title: beast burger
+              description: 400g of meat
+              value: beast
     - title: Drinks
     - title: Dessert
