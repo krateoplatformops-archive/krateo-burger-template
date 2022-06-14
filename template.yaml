@@ -126,8 +126,14 @@ spec:
           title: ice cream flavors
           type: multiple
           values:
-          - chocolate
-          - cream
-          - mint
-          - lemon
-          - stracciatella
+          - title: chocolate
+            cost: 1
+          - title: cream
+            cost: 2
+          - title: mint
+            cost: 3
+          - title: lemon
+            cost: 4
+          - title: stracciatella
+            description: milk + choco
+            cost: 5
