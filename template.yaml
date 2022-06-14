@@ -43,7 +43,7 @@ spec:
             - title: chicken wings
               value: wings
             - title: cheese snack
-              value: cheese snack
+              value: cheese snack    
     - title: Main Course
       properties:
         burger:
@@ -120,3 +120,14 @@ spec:
         notes:
           title: notes
           type: textarea
+    - title: Ice Cream
+      properties:
+        flavors:
+          title: ice cream flavors
+          type: multiple
+          values:
+          - chocolate
+          - cream
+          - mint
+          - lemon
+          - stracciatella
