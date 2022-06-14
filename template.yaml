@@ -127,13 +127,18 @@ spec:
           type: multiple
           values:
           - title: chocolate
+            value: chocolate
             cost: 1
           - title: cream
+            value: cream
             cost: 2
           - title: mint
+            value: mint
             cost: 3
           - title: lemon
+            value: lemon
             cost: 4
           - title: stracciatella
+            value: stracciatella
             description: milk + choco
             cost: 5
