@@ -125,6 +125,7 @@ spec:
         flavors:
           title: ice cream flavors
           type: multiple
+          default: chocolate,cream
           values:
           - title: chocolate
             value: chocolate
