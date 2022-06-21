@@ -133,6 +133,9 @@ spec:
           - title: cream
             value: cream
             cost: 2
+          - title: creama
+            value: creama
+            cost: 2
           - title: mint
             value: mint
             cost: 3
