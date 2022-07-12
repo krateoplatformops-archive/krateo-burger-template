@@ -15,3 +15,5 @@ metadata:
 spec:
   widgets:
     - title: test
+    - title: test 2
+      description: ciao
