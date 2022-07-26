@@ -16,6 +16,7 @@ spec:
   defaults:
     organizationName: krateoplatformops
     repositoryName: test-{name}
+    repository: https://test.com/projects/{organizationName}/repos/{repositoryName}
   widgets:
     - title: Customer
       description: burger Customer
