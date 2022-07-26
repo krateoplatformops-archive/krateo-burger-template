@@ -37,6 +37,7 @@ spec:
         snack:
           title: snack
           required: false
+          disabled: true
           type: radio
           values:
             - title: nuggets
@@ -71,6 +72,7 @@ spec:
           title: extra cheese
           description: extra cheese
           required: false
+          disabled: true
           type: toggle
         chips:
           title: chips
@@ -124,6 +126,7 @@ spec:
         notes:
           title: notes
           type: textarea
+          disabled: true
     - title: Ice Cream
       properties:
         flavors:
