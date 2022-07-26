@@ -28,7 +28,6 @@ spec:
           title: customer age
           description: your age
           type: number
-          disabled: true
         creditCard:
           title: customer credit card
           description: your credit card
@@ -40,7 +39,6 @@ spec:
         snack:
           title: snack
           required: false
-          disabled: true
           type: radio
           values:
             - title: nuggets
@@ -75,7 +73,6 @@ spec:
           title: extra cheese
           description: extra cheese
           required: false
-          disabled: true
           type: toggle
         chips:
           title: chips
@@ -118,7 +115,6 @@ spec:
       properties:
         cake:
           title: cake
-          disabled: true
           values:
             - ""
             - title: cheesecake
@@ -129,7 +125,6 @@ spec:
         notes:
           title: notes
           type: textarea
-          disabled: true
     - title: Ice Cream
       properties:
         flavors:
