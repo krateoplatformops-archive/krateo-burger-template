@@ -25,6 +25,7 @@ spec:
           title: customer age
           description: your age
           type: number
+          disabled: true
         creditCard:
           title: customer credit card
           description: your credit card
@@ -112,6 +113,7 @@ spec:
       properties:
         cake:
           title: cake
+          disabled: true
           values:
             - ""
             - title: cheesecake
